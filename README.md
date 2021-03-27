@@ -5,7 +5,9 @@
 </h1>
 
 ![](https://img.shields.io/github/languages/count/armandofc1/instagramHomePage?color=%23fff) ![](https://img.shields.io/github/languages/count/armandofc1/instagramHomePage?color=%23fff) ![](https://img.shields.io/github/repo-size/armandofc1/instagramHomePage?color=%23fff) ![](https://img.shields.io/github/last-commit/armandofc1/instagramHomePage?color=%23fff)
-
+  <a href="https://www.linkedin.com/in/dev-full-stack/">
+    <img alt="Made by Armando Costa" src="https://img.shields.io/badge/made%20by-Armando%20Costa-%2304D361">
+  </a>
 
 
 
@@ -43,7 +45,7 @@ Agora clone este repositório e desenvolva você mesmo sua própria home page do
 $ git clone https://github.com/armandofc1/instagramHomePage.git
 
 # Vá para a pasta do servidor
-$ cd instagramHomePage-master
+$ cd instagramHomePage-main
 
 ```
 
