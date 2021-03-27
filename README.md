@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/armandofc1/instagramHomePage/blob/master/img/instagram-logo.png?raw=true" alt="logo instagram"  /> by <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" alt="" width="200px" />
+    <img src="https://github.com/armandofc1/instagramHomePage/blob/main/img/instagram-logo.png?raw=true" alt="logo instagram"  /> by <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" alt="" width="200px" />
 </h1>
 
 ![](https://img.shields.io/github/languages/count/armandofc1/instagramHomePage?color=%23fff) ![](https://img.shields.io/github/languages/count/armandofc1/instagramHomePage?color=%23fff) ![](https://img.shields.io/github/repo-size/armandofc1/instagramHomePage?color=%23fff) ![](https://img.shields.io/github/last-commit/armandofc1/instagramHomePage?color=%23fff)
@@ -14,7 +14,7 @@
  Instagram Home Page foi desenvolvido em um desafio do bootcamp da  Digital Inovation One.
 
  <p align="center">
-  <img src="https://github.com/armandofc1/instagramHomePage/blob/master/github/snap_shot.png?raw=true" >
+  <img src="https://github.com/armandofc1/instagramHomePage/blob/main/github/snap_shot.png?raw=true" >
 </p>
 
  ## :airplane: Tecnologias e Bibliotecas
